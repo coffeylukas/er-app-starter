@@ -12,5 +12,8 @@
     "url": "ssh://lukas@45.56.118.143/~/base.lukascoffey.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
