@@ -1,0 +1,16 @@
+{
+  "name": "awesomeness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git push -f origin +master:refs/heads/master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://lukas@45.56.118.143/~/base.lukascoffey.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
