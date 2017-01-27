@@ -1,6 +1,9 @@
+body {
+  color: slategray;
+  text-align: center;
+  font-family: 'Roboto Slab', sans-serif;
+}
 
 h1 {
-  color: slategray;
-  font-family: 'Roboto Slab', sans-serif;
-  text-align: center;
+  margin-top: 100px;
 }
